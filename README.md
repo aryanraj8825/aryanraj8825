@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hema Rani
+# Hi 👋, I'm Aryan Raj
 
 ### Full Stack Developer | AI/ML Enthusiast
 
